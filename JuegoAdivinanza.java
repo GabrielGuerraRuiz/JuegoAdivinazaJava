@@ -48,6 +48,24 @@ public class JuegoAdivinanza{
 
 
             //IMPLEMENTAR LAS PISTAS DENTRO DEL WHILE, CADA PISTA DESPUES DE CADA INTENTO
+           if (intentos == 1) {
+                System.out.println("Pista: El número no es múltiplo de 5.");
+            } else if (intentos == 2) {
+                System.out.println("Pista: El número está más cerca de " + (numeroAleatorio - 10) + " o " + (numeroAleatorio + 10) + ".");
+            } else if (intentos == 3) {
+                System.out.println("Pista: El número es par." + (numeroAleatorio % 2 == 0 ? " Sí." : " No."));
+            } else if (intentos == 4) {
+                System.out.println("Última pista: El número está entre " + (numeroAleatorio - 5) + " y " + (numeroAleatorio + 5) + ".");
+            }
+        }
+
+        if (num != numeroAleatorio) {
+            System.out.println("Lo siento, has agotado tus intentos. El número correcto era: " + numeroAleatorio);
+        }
+
+        scanner.close();
+    }
+}
 
 
 
