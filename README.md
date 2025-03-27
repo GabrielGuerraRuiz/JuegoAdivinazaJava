@@ -65,5 +65,6 @@ Esto iniciará el juego en la consola.
 ### **Capturas de pantalla del programa en funcionamiento**
 CAPTURAS
 
-### **Enlace al repositorio de GitHub**
-ENLACE GIT
+### **Enlace al Planner**
+
+[Microsoft Planner](https://planner.cloud.microsoft/webui/v1/plan/PncRRqNHU0OnJ10fjBIFZmQAFKCo?tid=f94bf4d9-8097-4794-adf6-a5466ca28563)
