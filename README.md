@@ -68,6 +68,7 @@ Caso 3: se ingresa un numero fuera del rango de numeros
 
 
 Caso 4: se ingresa un caracter no valido
+
 ![image](https://github.com/user-attachments/assets/66990349-0e57-44a2-ba3a-a17cd62bc2ba)
 
 
