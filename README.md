@@ -56,14 +56,20 @@ javac SistemaRegistroEstudiantes.java
 ```
 Esto generará un archivo `SistemaRegistroEstudiantes.class` en el mismo directorio si el código no tiene errores.
 
-### **Ejecución**:
-IMAGEN MUESTRA
-java SistemaRegistroEstudiantes
-IMAGEN MUESTRA
-Esto iniciará el juego en la consola.
-
 ### **Capturas de pantalla del programa en funcionamiento**
-CAPTURAS
+Caso: no es adivinado
+![image](https://github.com/user-attachments/assets/958ecf7f-de18-463b-9d9f-15a9c1928631)
+
+Caso 2: el numero es adivinado
+![image](https://github.com/user-attachments/assets/6b63d3bb-9993-41c3-bec5-f5e87e03ad9c)
+
+Caso 3: se ingresa un numero fuera del rango de numeros
+![image](https://github.com/user-attachments/assets/991526b4-ca04-4e65-9cd7-f59d42414e4f)
+
+
+Caso 4: se ingresa un caracter no valido
+![image](https://github.com/user-attachments/assets/66990349-0e57-44a2-ba3a-a17cd62bc2ba)
+
 
 ### **Enlace al Planner**
 
