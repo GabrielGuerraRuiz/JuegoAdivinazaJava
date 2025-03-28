@@ -58,7 +58,7 @@ Esto generará un archivo `SistemaRegistroEstudiantes.class` en el mismo directo
 
 ### **Capturas de pantalla del programa en funcionamiento**
 Caso: no es adivinado
-![image](https://github.com/user-attachments/assets/958ecf7f-de18-463b-9d9f-15a9c1928631)
+![image](https://github.com/user-attachments/assets/5bffeaa1-4ec9-4de7-bab6-7898c0aa4b04)
 
 Caso 2: el numero es adivinado
 ![image](https://github.com/user-attachments/assets/6b63d3bb-9993-41c3-bec5-f5e87e03ad9c)
