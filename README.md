@@ -71,6 +71,5 @@ Caso 4: se ingresa un caracter no valido
 ![image](https://github.com/user-attachments/assets/66990349-0e57-44a2-ba3a-a17cd62bc2ba)
 
 
-### **Enlace al Planner**
-
-[Microsoft Planner](https://planner.cloud.microsoft/webui/v1/plan/PncRRqNHU0OnJ10fjBIFZmQAFKCo?tid=f94bf4d9-8097-4794-adf6-a5466ca28563)
+### **Enlace al GitHub**
+https://github.com/GabrielGuerraRuiz/JuegoAdivinazaJava
